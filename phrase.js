@@ -1,0 +1,1 @@
+console.log("The new is better than the old and the tomorrow is now");
